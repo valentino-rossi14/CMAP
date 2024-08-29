@@ -18,7 +18,7 @@ You will be asked to type in two things.
 After these two inputs, the script will scan and filter results to give you the report of the current open ports. 
 
 ## Screen
-![result](./image/result.png)
+![result](https://github.com/user-attachments/assets/0a5c1ad8-0cf6-43e0-a60d-023e84882033)
 
 ## Results
 The results will be in table format showing the *port number*, *state*, *socket* and *version*.
